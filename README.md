@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Rajugouda-Haranahalli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m B Rajugouda Haranahalli
+- 👀 I’m interested in Developing Website usign C#,ASP.NET,ASP.NET Core MVC,ASP.NET Core Web API
 - 📫 How to reach me Email - rajugoudaharanahalli@gmail.com LinkedIn - https://www.linkedin.com/in/b-rajugouda-haranahalli-7980ba24b/
 
 <!---
